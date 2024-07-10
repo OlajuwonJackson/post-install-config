@@ -1,4 +1,4 @@
-
+<img width="593" alt="2" src="https://private-user-images.githubusercontent.com/163789590/314693672-b1eeb928-eb01-42ce-b0b2-f081d93274af.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MjA2NDg4NzMsIm5iZiI6MTcyMDY0ODU3MywicGF0aCI6Ii8xNjM3ODk1OTAvMzE0NjkzNjcyLWIxZWViOTI4LWViMDEtNDJjZS1iMGIyLWYwODFkOTMyNzRhZi5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQwNzEwJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MDcxMFQyMTU2MTNaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT01ODViZmE0YjAwZDNjZDFkMTUxODk1MTcyNTA5NTg0ZDQ1NDViMWFjZjVhYmNjZjFkZDJjYmExYzExNWUyYzc2JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.bVp1yJS4FFucRBmv2G8nSgcsspvZelb5cmjg3wVXxoQ">
 </p>
 
 <h1> osTicket - Ticket Resolution and Troubleshooting </h1>
@@ -8,7 +8,7 @@
 
 <h2>Prerequisites</h2>
 
-- <a href="https://github.com/giovannibriones/osticket-prereqs"> osTicket - Prerequisites and Installation </a>
+- <a href="https://github.com/olajuwonjackson/osticket-prereqs"> osTicket - Prerequisites and Installation </a>
 
 <h2>Main Objectives</h2>
 
